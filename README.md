@@ -2,4 +2,4 @@
 ![Gif](https://github.com/Hank-qin/WeChatDemo/blob/master/PreviewImages/%E9%A2%84%E8%A7%88%E5%9B%BE.gif)
 ## Remind
 * ARC
-* iOS>=6.0  if you use Masonry iOS need >=8.0
+* iOS>=7.0  if you use Masonry iOS need >=8.0
