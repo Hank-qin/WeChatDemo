@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - QBImagePickerController (2.6.0)
+
+DEPENDENCIES:
+  - Masonry
+  - QBImagePickerController
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+    - QBImagePickerController
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  QBImagePickerController: 095c2b2973de4da267334d2cfcac989c2eb5cdc2
+
+PODFILE CHECKSUM: 66a9fcdf3a676e9430f1495662e85b3189e4cd6a
+
+COCOAPODS: 1.5.0
